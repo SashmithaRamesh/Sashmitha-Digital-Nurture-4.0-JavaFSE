@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+.section {
+  width: 30%;
+}
+.divider {
+  width: 2px;
+  background-color: green;
+  height: auto;
+}
